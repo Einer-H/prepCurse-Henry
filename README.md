@@ -1,2 +1,1 @@
-# prepCurse-Henry
-Este es un repositorio para el prep curse de Henry
+Este proyecto es una pruenba de git y clonar a alsjlfaskjfla
